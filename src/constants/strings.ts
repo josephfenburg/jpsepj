@@ -1,4 +1,4 @@
-export const GAME_TITLE = process.env.REACT_APP_GAME_NAME!
+export const GAME_TITLE = process.env.FENST_APP_GAME_NAME!
 
 export const WIN_MESSAGES = ['Great Job Baby!', 'Awesome', 'Well done!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
